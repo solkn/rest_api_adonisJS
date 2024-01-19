@@ -72,3 +72,11 @@ node ace serve --watch
 
 
 # Postman Collections
+
+Use This file inside the project
+
+rest_api_adonisJS.postman_collection.json
+
+
+
+Thank You!
